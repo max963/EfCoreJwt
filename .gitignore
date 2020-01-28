@@ -1,0 +1,9 @@
+/.vscode
+/GameTOP/bin
+/GameTOP/obj
+/GameTOP.Domain/obj
+/GameTOP.Interfaces/bin
+/GameTOP.Interfaces/obj
+/GameTOP.Lib/bin
+/GameTOP.Lib/obj
+/GameTOP.Domain/bin
